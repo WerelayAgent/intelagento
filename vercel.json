@@ -10,7 +10,7 @@
       "destination": "https://agento.biz/_next/:path*"
     },
     {
-      "source": "/:path*",
+      "source": "/(.*)",
       "destination": "/index.html"
     }
   ]
